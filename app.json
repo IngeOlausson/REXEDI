@@ -1,0 +1,25 @@
+{
+  "id": "b53f2758-528c-430d-9ccc-a664ca3d3bae",
+  "name": "REXEDI",
+  "publisher": "IOL",
+  "brief": "REXEDI",
+  "description": "REXEDI",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "features": "TranslationFile",
+  "showMyCode": true,
+  "target": "Internal",
+  "idRange": {
+    "from": 50000,
+    "to": 50299  }
+}
