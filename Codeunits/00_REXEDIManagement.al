@@ -63,9 +63,9 @@ codeunit 50032 REXEDIManagement
           //TempTable."BLOB Field".CREATEINSTREAM(InXMLStreamConverted);
           /// IOL
           if GuiAllowed then
-            Xmlport.Import(50082,InXMLStream)
+            Xmlport.Import(50004,InXMLStream)
           else
-            if not Xmlport.Import(50082,InXMLStream) then
+            if not Xmlport.Import(50004,InXMLStream) then
               XMLDeliveryOrderInbound := true;
           XMLFile.Close;
         end;        

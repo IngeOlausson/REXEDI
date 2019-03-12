@@ -1058,6 +1058,10 @@ table 50001 "REXEDISalesHeader"
                         SVE='Godsmärke';
             Description = 'PEB0012';
         }
+        field(223213441;"Shipment Notification";Text[150])
+        {
+            Caption = 'Shipment Notification';
+        }
     }
 
     keys
